@@ -1,0 +1,19 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Carpetas y archivos del entorno virtual
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Archivos compilados de Python (Caché)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de entorno y configuraciones locales
+.env
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db

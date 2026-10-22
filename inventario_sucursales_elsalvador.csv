@@ -1,0 +1,101 @@
+ID_Producto,Producto,Categoria,Precio_Unitario_USD,Cantidad_Stock,Sucursal
+PROD-001,Laptop Dell Vostro 3510,Electrónica,665.7,36,Santa Ana
+PROD-002,Ventilador de Pedestal Oster,Hogar,38.67,119,Sonsonate
+PROD-003,Tablet Samsung Galaxy Tab A8,Electrónica,208.36,8,San Salvador
+PROD-004,Cafetera Programable Black+Decker,Hogar,42.52,8,Sonsonate
+PROD-005,Lámpara LED de Escritorio,Hogar,14.88,62,Sonsonate
+PROD-006,Juego de Desarmadores Stanley 6 pzs,Ferretería,12.82,25,La Libertad
+PROD-007,Multímetro Digital Truper,Ferretería,27.04,102,San Miguel
+PROD-008,Laptop Dell Vostro 3510,Electrónica,642.2,50,San Miguel
+PROD-009,Juego de Desarmadores Stanley 6 pzs,Ferretería,12.79,73,San Salvador
+PROD-010,Café Molido Gourmet 500g,Alimentos y Bebidas,6.28,111,Sonsonate
+PROD-011,"Caja de Herramientas Plástica 16""",Ferretería,21.32,13,San Salvador
+PROD-012,Horno Microondas Panasonic 0.9 cu ft,Hogar,120.58,114,Santa Ana
+PROD-013,Impresora HP Ink Tank 415,Electrónica,180.89,86,San Miguel
+PROD-014,Horno Microondas Panasonic 0.9 cu ft,Hogar,113.34,90,San Miguel
+PROD-015,Tablet Samsung Galaxy Tab A8,Electrónica,212.83,73,Santa Ana
+PROD-016,Licuadora 10 Velocidades Oster,Hogar,47.42,86,Sonsonate
+PROD-017,Horno Microondas Panasonic 0.9 cu ft,Hogar,118.94,104,San Salvador
+PROD-018,Ventilador de Pedestal Oster,Hogar,39.16,56,San Miguel
+PROD-019,"Monitor LG 24"" Full HD",Electrónica,151.51,77,San Miguel
+PROD-020,Licuadora 10 Velocidades Oster,Hogar,47.5,87,La Libertad
+PROD-021,Horno Microondas Panasonic 0.9 cu ft,Hogar,110.86,100,Sonsonate
+PROD-022,"Caja de Herramientas Plástica 16""",Ferretería,21.84,79,La Libertad
+PROD-023,Taladro Inalámbrico DeWalt 20V,Ferretería,173.21,22,Sonsonate
+PROD-024,Café Molido Gourmet 500g,Alimentos y Bebidas,6.41,115,San Salvador
+PROD-025,Cafetera Programable Black+Decker,Hogar,43.74,59,Sonsonate
+PROD-026,Impresora HP Ink Tank 415,Electrónica,182.81,64,Sonsonate
+PROD-027,"Caja de Herramientas Plástica 16""",Ferretería,22.79,6,San Salvador
+PROD-028,Multímetro Digital Truper,Ferretería,26.91,60,Santa Ana
+PROD-029,Café Molido Gourmet 500g,Alimentos y Bebidas,6.53,117,San Miguel
+PROD-030,Lámpara LED de Escritorio,Hogar,15.62,116,San Miguel
+PROD-031,Cafetera Programable Black+Decker,Hogar,41.96,25,Sonsonate
+PROD-032,Tablet Samsung Galaxy Tab A8,Electrónica,206.31,7,San Salvador
+PROD-033,Multímetro Digital Truper,Ferretería,27.27,35,Sonsonate
+PROD-034,Laptop Dell Vostro 3510,Electrónica,665.07,109,San Salvador
+PROD-035,Cafetera Programable Black+Decker,Hogar,43.18,75,Santa Ana
+PROD-036,"Caja de Herramientas Plástica 16""",Ferretería,22.82,59,Santa Ana
+PROD-037,Horno Microondas Panasonic 0.9 cu ft,Hogar,113.84,90,San Miguel
+PROD-038,Pack Agua Purificada 12 Unidades,Alimentos y Bebidas,4.48,36,Santa Ana
+PROD-039,Teclado Mecánico Redragon,Electrónica,42.84,75,Santa Ana
+PROD-040,Ventilador de Pedestal Oster,Hogar,36.37,85,San Salvador
+PROD-041,Ventilador de Pedestal Oster,Hogar,39.54,115,San Miguel
+PROD-042,Tablet Samsung Galaxy Tab A8,Electrónica,204.5,90,La Libertad
+PROD-043,Lámpara LED de Escritorio,Hogar,14.45,117,Sonsonate
+PROD-044,Aceite Vegetal 1 Litro,Alimentos y Bebidas,3.91,108,La Libertad
+PROD-045,Ventilador de Pedestal Oster,Hogar,36.47,60,San Miguel
+PROD-046,Azúcar de Caña 1kg,Alimentos y Bebidas,1.15,98,San Salvador
+PROD-047,Laptop Dell Vostro 3510,Electrónica,643.67,48,San Salvador
+PROD-048,Cafetera Programable Black+Decker,Hogar,41.18,62,Santa Ana
+PROD-049,Aceite Vegetal 1 Litro,Alimentos y Bebidas,3.72,36,San Salvador
+PROD-050,Pack Agua Purificada 12 Unidades,Alimentos y Bebidas,4.32,88,Sonsonate
+PROD-051,Laptop Dell Vostro 3510,Electrónica,677.71,113,Santa Ana
+PROD-052,Licuadora 10 Velocidades Oster,Hogar,47.93,32,La Libertad
+PROD-053,"Monitor LG 24"" Full HD",Electrónica,143.74,54,San Miguel
+PROD-054,Arroz Blanco Superior 1kg,Alimentos y Bebidas,1.39,98,Sonsonate
+PROD-055,Aceite Vegetal 1 Litro,Alimentos y Bebidas,3.68,32,San Salvador
+PROD-056,Mouse Inalámbrico Logitech,Electrónica,18.16,11,Sonsonate
+PROD-057,Pack Agua Purificada 12 Unidades,Alimentos y Bebidas,4.69,72,Santa Ana
+PROD-058,Tablet Samsung Galaxy Tab A8,Electrónica,201.18,28,San Salvador
+PROD-059,Mouse Inalámbrico Logitech,Electrónica,19.17,56,San Salvador
+PROD-060,Lámpara LED de Escritorio,Hogar,15.14,84,San Salvador
+PROD-061,Pack Agua Purificada 12 Unidades,Alimentos y Bebidas,4.53,45,San Miguel
+PROD-062,Horno Microondas Panasonic 0.9 cu ft,Hogar,111.99,55,Santa Ana
+PROD-063,Cinta Métrica 5 metros Stanley,Ferretería,6.38,101,San Salvador
+PROD-064,Impresora HP Ink Tank 415,Electrónica,187.24,77,San Salvador
+PROD-065,Tablet Samsung Galaxy Tab A8,Electrónica,203.98,38,Santa Ana
+PROD-066,Juego de Desarmadores Stanley 6 pzs,Ferretería,12.97,52,San Miguel
+PROD-067,Licuadora 10 Velocidades Oster,Hogar,49.6,95,San Miguel
+PROD-068,Mouse Inalámbrico Logitech,Electrónica,19.09,43,San Salvador
+PROD-069,Horno Microondas Panasonic 0.9 cu ft,Hogar,110.58,18,Sonsonate
+PROD-070,Horno Microondas Panasonic 0.9 cu ft,Hogar,112.49,31,San Miguel
+PROD-071,Horno Microondas Panasonic 0.9 cu ft,Hogar,115.06,37,San Salvador
+PROD-072,Mouse Inalámbrico Logitech,Electrónica,18.36,40,San Salvador
+PROD-073,Teclado Mecánico Redragon,Electrónica,46.22,86,San Miguel
+PROD-074,Licuadora 10 Velocidades Oster,Hogar,48.25,59,Sonsonate
+PROD-075,Laptop Dell Vostro 3510,Electrónica,622.39,118,Santa Ana
+PROD-076,Teclado Mecánico Redragon,Electrónica,45.37,23,La Libertad
+PROD-077,Ventilador de Pedestal Oster,Hogar,37.27,120,San Salvador
+PROD-078,Taladro Inalámbrico DeWalt 20V,Ferretería,168.0,90,San Salvador
+PROD-079,"Caja de Herramientas Plástica 16""",Ferretería,22.85,57,Sonsonate
+PROD-080,Cafetera Programable Black+Decker,Hogar,44.05,107,Santa Ana
+PROD-081,Café Molido Gourmet 500g,Alimentos y Bebidas,6.05,47,La Libertad
+PROD-082,Horno Microondas Panasonic 0.9 cu ft,Hogar,111.08,94,San Salvador
+PROD-083,Café Molido Gourmet 500g,Alimentos y Bebidas,6.47,33,Santa Ana
+PROD-084,Arroz Blanco Superior 1kg,Alimentos y Bebidas,1.37,106,Santa Ana
+PROD-085,Ventilador de Pedestal Oster,Hogar,38.61,56,San Miguel
+PROD-086,Juego de Desarmadores Stanley 6 pzs,Ferretería,13.08,40,San Miguel
+PROD-087,Pack Agua Purificada 12 Unidades,Alimentos y Bebidas,4.42,8,San Salvador
+PROD-088,Taladro Inalámbrico DeWalt 20V,Ferretería,166.33,38,San Salvador
+PROD-089,Tablet Samsung Galaxy Tab A8,Electrónica,208.63,98,San Miguel
+PROD-090,Pack Agua Purificada 12 Unidades,Alimentos y Bebidas,4.72,19,La Libertad
+PROD-091,Horno Microondas Panasonic 0.9 cu ft,Hogar,109.76,60,San Salvador
+PROD-092,Horno Microondas Panasonic 0.9 cu ft,Hogar,114.21,90,San Miguel
+PROD-093,Juego de Desarmadores Stanley 6 pzs,Ferretería,12.77,43,Sonsonate
+PROD-094,Cinta Métrica 5 metros Stanley,Ferretería,6.39,94,San Miguel
+PROD-095,Cafetera Programable Black+Decker,Hogar,42.16,53,Santa Ana
+PROD-096,Cinta Métrica 5 metros Stanley,Ferretería,6.53,5,San Miguel
+PROD-097,Taladro Inalámbrico DeWalt 20V,Ferretería,163.84,79,Sonsonate
+PROD-098,Cinta Métrica 5 metros Stanley,Ferretería,6.46,91,Santa Ana
+PROD-099,Aceite Vegetal 1 Litro,Alimentos y Bebidas,3.86,41,Sonsonate
+PROD-100,Juego de Desarmadores Stanley 6 pzs,Ferretería,12.9,101,Santa Ana
